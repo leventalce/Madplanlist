@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Mad Plan</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+
+    <string-array name="Items">
+        <item>Mandag</item>
+        <item>Tirsdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lørdag</item>
+        <item>Søndag</item>
+
+    </string-array>
+    <string-array name="descriptions">
+        <item>(Text)</item>
+        <item>(Text)</item>
+        <item>(Text)</item>
+        <item>(Text)</item>
+        <item>(Text)</item>
+        <item>(Text)</item>
+        <item>(Text)</item>
+    </string-array>
+
+</resources>
